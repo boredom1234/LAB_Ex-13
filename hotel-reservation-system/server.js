@@ -47,4 +47,4 @@ app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
 
-//LINK: https://github.com/boredom1234/LAB_Ex-13
+//LINK: http://localhost:3000/search-rooms?checkInDate=2023-10-15&checkOutDate=2023-10-20&roomType=Standard&occupancy=2
